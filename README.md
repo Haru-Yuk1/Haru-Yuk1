@@ -1,6 +1,6 @@
 
-## <center>Hi, I'm Yang Lou </center>  
-### <center>A student from Chongqing University</center> 
+<center> # Hi, I'm Yang Lou </center>  
+<center> ## A student from Chongqing University</center> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I'm+Yang+Lou;+Welcome+to+My+Profile!;一+个+大+二+学+生;Always+learning+new+things+;Machine+learning+enthusiast+;HaruYuki)](https://git.io/typing-svg)
 
