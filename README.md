@@ -16,4 +16,5 @@
 
 <!-- my-blogs -->
 
-![Myblog](https://haru-yuk1.github.io/MyBlog/)
+
+[Yukio's Blog](https://haru-yuk1.github.io/MyBlog/)
