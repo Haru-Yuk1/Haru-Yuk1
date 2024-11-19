@@ -12,7 +12,7 @@
 
 |<center>My stats</center>|<center>My Language</center> |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Haru-Yuk1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haru-Yuk1&show_icons=true&theme=dark&card_width=200&bg_color=00000000) | ![Haru-Yuk1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Yuk1&theme=dark&layout=compact&card_width=200&bg_color=00000000)|
+| ![Haru-Yuk1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haru-Yuk1&show_icons=true&theme=radical&card_width=200&bg_color=00000000) | ![Haru-Yuk1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Yuk1&theme=radical&layout=compact&card_width=200&bg_color=00000000)|
 
 <!-- my-blogs -->
 
