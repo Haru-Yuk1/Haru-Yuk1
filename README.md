@@ -16,5 +16,5 @@
 
 <!-- my-blogs -->
 
-### <center>My Blog</center> 
+<!-- ### <center>My Blog</center>  -->
 [Yukio's Blog](https://haru-yuk1.github.io/MyBlog/)
