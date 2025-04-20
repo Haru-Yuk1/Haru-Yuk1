@@ -14,8 +14,9 @@
     <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/Haru-Yuk1/Haru-Yuk1/main/assets/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="https://github.com/Haru-Yuk1/Haru-Yuk1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!-- ### <center>My stats</center>  -->
    
 
