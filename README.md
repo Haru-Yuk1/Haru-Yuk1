@@ -12,9 +12,11 @@
     <!--GitHub-->
     <a href="https://github.com/Haru-Yuk1"><img src="https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white" /></a>&emsp;
     <a href="https://github.com/Haru-Yuk1"><img src="https://img.shields.io/github/stars/HugoPhi?style=social" /></a>&emsp;
-    
+    <!--Gmail-->
+    <a href="mailto:haruyuki1y@gmail.com"><img src="https://img.shields.io/badge/Gmail-Google-green?style=flat&logo=gmail&logoColor=white" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Haru-Yuk1&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    
 </div>
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
