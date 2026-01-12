@@ -3,6 +3,22 @@
 <h2 align = "center">A student from Chongqing University
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I'm+Yang+Lou;+Welcome+to+My+Profile!;一+个+大+四+学+生;Always+learning+new+things+;Machine+learning+enthusiast+)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=000000&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things.">
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things.">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Manjari&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=true&random=true&width=435&lines=Do+Great+Things."
+        alt="Typing SVG"
+      />
+    </picture>
+  </a>
+</h1>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 <!-- profile logo 个人资料徽标 -->
